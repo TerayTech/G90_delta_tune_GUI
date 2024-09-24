@@ -1,5 +1,7 @@
 # G90 Radio Control Interface
 
+![g90gui](https://github.com/user-attachments/assets/647a56d1-0d28-44a9-8dc0-3955d872e1d2)
+
 This Python application provides a graphical user interface (GUI) to control the Xiegu G90 HF Transceiver via serial communication. It allows users to interact with the G90 by scanning and selecting serial ports, sending control commands to toggle features such as preamp, attenuator, and tuner, as well as querying and setting the radio's frequency.
 
 ## Features
